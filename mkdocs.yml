@@ -1,0 +1,17 @@
+site_name: "pw-documentation-tutorial-1"
+site_description: "PW Documentation Tutorial"
+
+nav:
+  - Overview: index.md
+  - Concepts: concepts.md
+  - Tutorials:
+    - Tutorial Apple: tutorials/tutorial-apple.md
+    - Tutorial Orange: tutorials/tutorial-orange.md
+    - Tutorial Banana: tutorials/tutorial-banana.md
+    - Tutorial Lemon: tutorials/tutorial-lemon.md
+  - Support: support.md
+  - Roadmap: roadmap.md
+  - Events: events.md
+
+plugins:
+  - techdocs-core
